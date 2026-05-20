@@ -8,6 +8,9 @@ https://www.federalreserve.gov/econres/notes/feds-notes/order-flow-imbalances-an
 https://www.efmaefm.org/0EFMAMEETINGS/EFMA%20ANNUAL%20MEETINGS/2025-Greece/papers/OrderFlowpaper.pdf
 Bianchi, D., M. Babiak, and A. Dickerson (2022). Trading volume and liquidity provision in
 cryptocurrency markets. Journal of Banking and Finance 142, 106547
+
+-------
+main inspiration
 https://discovery.ucl.ac.uk/id/eprint/10142659/1/Lim_thesis.pdf
 
 -----------
