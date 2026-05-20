@@ -17,5 +17,7 @@ https://discovery.ucl.ac.uk/id/eprint/10142659/1/Lim_thesis.pdf
 order book data import
 https://github.com/bytewax/bytewax
 Kelly critereon
+
 -----
+
 coding style: strongly typed python
